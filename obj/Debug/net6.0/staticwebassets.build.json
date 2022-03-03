@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MKpYxIwbtdOPE0GJNJwibIcoI3tnqYuF+wjRHGGtoz4=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\7yuvr\\source\\repos\\BlazorFileUpluo\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\7yuvr\\source\\repos\\BlazorFileUpluo\\WebApi\\wwwroot\\Files\\ef117d7e-a0f6-4998-92cd-dc1fa03c73b7.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7yuvr\\source\\repos\\BlazorFileUpluo\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "Files/ef117d7e-a0f6-4998-92cd-dc1fa03c73b7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\ef117d7e-a0f6-4998-92cd-dc1fa03c73b7.jpg"
+    }
+  ]
+}
